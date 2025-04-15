@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --color-primary: #E1BA66;
+  --color-secondary: #5f4c15;
+  --color-tertiaty: #d9d9d9;
+
+
+  --primary: #e3d189;
+  --primary: #E1BA66;
+  --secondary: #5f4c15;
+  --tertiary: #d9d9d9;
+  --border: #6a6242;
+  --background: #310909;
+}
+
+* {
+    font-family: "Forum", serif;
+  
+}
+
+a { 
+  @apply text-red-700;
+}
+
+a:hover {
+  @apply border-b-2 border-red-700;
+}
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}

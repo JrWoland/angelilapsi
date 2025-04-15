@@ -1,0 +1,123 @@
+{
+  "company": {
+    "name": "Angeli Lapsi",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "O FUNDACJI",
+      "href": "product"
+    },
+    {
+      "name": "DO POBRANIA",
+      "href": "features"
+    },
+    {
+      "name": "KONTAKT",
+      "href": "contact"
+    }
+  ],
+  "callToAction": {
+    "text": "DOTACJE",
+    "href": "#pricing"
+  },
+  "mainHero": {
+    "title": "Fundacja",
+    "subtitle": "Angeli Lapsi",
+    "description": "Udzielanie wsparcia materialnego, merytorycznego i psychologicznego osobom w trudnej sytuacji życiowej doznającym kryzysu egzystencjalnego oraz duchowego.",
+    "img": "/assets/images/angeli_lapsi_ramka.png",
+    "primaryAction": {
+      "text": "DOTACJE",
+      "href": "#pricing"
+    },
+    "secondaryAction": {
+      "text": "Email",
+      "href": "mailto:kontakt@angelilapsi.pl?subject=Dotacja"
+    }
+  },
+  "product": {
+    "title": "O FUNDACJI",
+    "items": [
+      {
+        "title": "Zarząd",
+        "description": "Jarosław Dariusz Grygieńć",
+        "owner": "Prezes Fundacji",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Zakres działalności",
+        "description": "Fundacja prowadzi działalność pożytku publicznego na rzecz ogółu społeczności w zakresie religii, nauki, edukacji, oświaty i wychowania.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Baza wiedzy",
+    "subtitle": "DO POBRANIA",
+    "description": "",
+    "items": [
+      {
+        "name": "Statut",
+        "description": "Statut_Fundacji_Angeli_Lapsi.pdf",
+        "icon": "/assets/images/logo.png",
+        "pdf": "/assets/pdf/Statut_Fundacji_Angeli_Lapsi.pdf"
+      },
+      {
+        "name": "Deklaracja wsparcia",
+        "description": "Deklaracja_wsparcia_Fundacja_Angeli_Lapsi.pdf",
+        "icon": "/assets/images/logo.png",
+        "pdf": "/assets/pdf/Deklaracja_wsparcia_Fundacja_Angeli_Lapsi.pdf"
+      },
+      {
+        "name": "Regulamin darowizn",
+        "description": "Regulamin_darowizn_Fundacja_Angeli_Lapsi.pdf",
+        "icon": "/assets/images/logo.png",
+        "pdf": "/assets/pdf/Regulamin_darowizn_Fundacja_Angeli_Lapsi.pdf"
+      },
+      {
+        "name": "Prośba o wsparcie - formularz",
+        "description": "Status.pdf",
+        "icon": "/assets/images/logo.png",
+        "pdf": "/assets/pdf/Zgłoszenie_potrzeby_wsparcia_Fundacja_Angeli_Lapsi.pdf"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "DOTACJE",
+    "data": {
+      "title": "Odbiorca: Fundacja Angeli Lapsi",
+      "address": "Adres: ul. Jana Pawła II 27, 00-867 Warszawa",
+      "reason": "Tytuł wpłaty: Darowizna na cele statutowe"
+    },
+    "items": [
+      {
+        "name": "Wpłat można dokonywać na konta:",
+        "price": "SWIFT: BPKOPLPW",
+        "features": ["PLN: 54 1020 1332 0000 1202 1557 3542", "EUR: PL21 1020 1332 0000 1402 1557 3553", "USD: PL85 1020 1332 0000 1602 1557 3564", "NOK: PL52 1020 1332 0000 1802 1557 3575"]
+      }
+    ]
+  },
+  "about": {
+    "title": "Kontakt",
+    "phone": "(22) 398 71 70",
+    "email": "kontakt@angelilapsi.pl",
+    "address": {
+      "city": "Warszawa",
+      "street": "ul. Jana Pawła II 27",
+      "postal": "00-867"
+    },
+    "nip": "NIP: 527-313-72-84",
+    "regon": "REGON: 540-046-060",
+    "krs": "KRS: 000 113 5795",
+    "sections": [
+      {
+        "name": "Regulamin darowizn",
+        "href": "/assets/pdf/Regulamin_darowizn_Fundacja_Angeli_Lapsi.pdf"
+      }
+    ],
+    "socialMedia": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/"
+    }
+  }
+}
