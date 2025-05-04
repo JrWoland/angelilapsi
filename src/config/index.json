@@ -9,6 +9,10 @@
       "href": "product"
     },
     {
+      "name": "AKTUALNOŚCI",
+      "href": "news"
+    },
+    {
       "name": "DO POBRANIA",
       "href": "features"
     },
@@ -18,7 +22,7 @@
     }
   ],
   "callToAction": {
-    "text": "DOTACJE",
+    "text": "WSPARCIE",
     "href": "#pricing"
   },
   "mainHero": {
@@ -27,7 +31,7 @@
     "description": "Udzielanie wsparcia materialnego, merytorycznego i psychologicznego osobom w trudnej sytuacji życiowej doznającym kryzysu egzystencjalnego oraz duchowego.",
     "img": "/assets/images/angeli_lapsi_ramka.png",
     "primaryAction": {
-      "text": "DOTACJE",
+      "text": "WSPARCIE",
       "href": "#pricing"
     },
     "secondaryAction": {
@@ -46,7 +50,7 @@
       },
       {
         "title": "Zakres działalności",
-        "description": "Fundacja prowadzi działalność pożytku publicznego na rzecz ogółu społeczności w zakresie religii, nauki, edukacji, oświaty i wychowania.",
+        "description": "Fundacja Angeli Lapsi prowadzi działalność pożytku publicznego na rzecz ogółu społeczności, koncentrując się na wspieraniu wartości duchowych, edukacyjnych oraz rozwoju intelektualnego i moralnego dzieci, młodzieży oraz osób dorosłych.",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -83,7 +87,7 @@
     ]
   },
   "pricing": {
-    "title": "DOTACJE",
+    "title": "WSPARCIE",
     "data": {
       "title": "Odbiorca: Fundacja Angeli Lapsi",
       "address": "Adres: ul. Jana Pawła II 27, 00-867 Warszawa",
@@ -93,7 +97,12 @@
       {
         "name": "Wpłat można dokonywać na konta:",
         "price": "SWIFT: BPKOPLPW",
-        "features": ["PLN: 54 1020 1332 0000 1202 1557 3542", "EUR: PL21 1020 1332 0000 1402 1557 3553", "USD: PL85 1020 1332 0000 1602 1557 3564", "NOK: PL52 1020 1332 0000 1802 1557 3575"]
+        "features": [
+          "PLN: 54 1020 1332 0000 1202 1557 3542",
+          "EUR: PL21 1020 1332 0000 1402 1557 3553",
+          "USD: PL85 1020 1332 0000 1602 1557 3564",
+          "NOK: PL52 1020 1332 0000 1802 1557 3575"
+        ]
       }
     ]
   },
@@ -113,6 +122,10 @@
       {
         "name": "Regulamin darowizn",
         "href": "/assets/pdf/Regulamin_darowizn_Fundacja_Angeli_Lapsi.pdf"
+      },
+      {
+        "name": "Polityka prywatności i RODO",
+        "href": "/assets/pdf/RODO.pdf"
       }
     ],
     "socialMedia": {

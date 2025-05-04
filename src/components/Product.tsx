@@ -47,7 +47,7 @@ const Product = () => {
           </div>
         </div>
         <div
-          className={`flex flex-wrap flex-col-reverse sm:flex-row text-center  mt-20`}
+          className={`flex flex-wrap flex-col-reverse sm:flex-row text-center mt-20`}
         >
           <div className="relative w-full sm:w-1/2 text-center">
             <video
@@ -70,10 +70,52 @@ const Product = () => {
           </div>
           <div className={`w-full sm:w-1/2 p-6 self-center`}>
             <div className={`align-middle`}>
-              <p className={`text-tertiary mb-8 text-2xl`}>
+              <p className={`text-tertiary mb-8 text-xl`}>
                 {secondItem?.description}
               </p>
             </div>
+          </div>
+          <div>
+            <ul className={`text-left text-tertiary text-xl list-disc ml-8 `}>
+              <p className={`text-3xl`}>
+                Jej działania obejmują w szczególności:
+              </p>
+              <li>
+                Wspieranie rozwoju życia religijnego poprzez organizację
+                rekolekcji, wydarzeń duchowych, spotkań formacyjnych, a także
+                promocję chrześcijańskich wartości w codziennym życiu
+                społecznym;
+              </li>
+              <li>
+                Działania edukacyjne i oświatowe, w tym prowadzenie warsztatów,
+                szkoleń, kursów i wykładów, które wspierają rozwój osobisty,
+                kompetencje społeczne oraz pogłębiają wiedzę uczestników w
+                różnych dziedzinach nauki i kultury;
+              </li>
+              <li>
+                Upowszechnianie nauki poprzez popularyzację wiedzy w przystępny
+                sposób, szczególnie wśród dzieci i młodzieży, a także wspieranie
+                inicjatyw badawczych i edukacyjnych, które mają na celu
+                kształtowanie świadomego i odpowiedzialnego społeczeństwa;
+              </li>
+              <li>
+                Wychowanie i rozwój młodego pokolenia poprzez organizowanie
+                działań wychowawczych, programów profilaktycznych, obozów i
+                kolonii, które mają na celu budowanie postaw odpowiedzialności,
+                empatii, samodyscypliny i zaangażowania społecznego;
+              </li>
+              <li>
+                Tworzenie przestrzeni do rozwoju duchowego, intelektualnego i
+                emocjonalnego – zarówno poprzez własne działania, jak i
+                współpracę z parafiami, szkołami, uczelniami, organizacjami
+                pozarządowymi oraz instytucjami publicznymi.
+              </li>
+              <p className={`mt-8`}>
+                Działalność Fundacji ma charakter niezarobkowy i służy
+                realizacji dobra wspólnego poprzez budowanie świadomego,
+                wartościowego i solidarnego społeczeństwa.
+              </p>
+            </ul>
           </div>
         </div>
       </div>

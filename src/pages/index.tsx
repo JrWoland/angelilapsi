@@ -8,8 +8,11 @@ import Features from '../components/Features';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
+import Mission from '../components/Mission';
+import News from '../components/News';
 import Pricing from '../components/Pricing';
 import Product from '../components/Product';
+import Projects from '../components/Projects';
 
 const App = () => {
   return (
@@ -28,6 +31,12 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <>
+          <News />
+          <Canvas />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
           <Features />
           <Canvas />
         </>
@@ -37,6 +46,12 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <Events />
+      </LazyShow>
+      <LazyShow>
+        <Projects />
+      </LazyShow>
+      <LazyShow>
+        <Mission />
       </LazyShow>
       <LazyShow>
         <>

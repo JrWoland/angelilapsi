@@ -42,7 +42,8 @@ const About = () => {
 
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-primary dark:text-gray-50">
-            &copy; {new Date().getFullYear()}
+            &copy;{' '}
+            {`${new Date().getFullYear()} Fundacja Angeli Lapsi. Wszelkie prawa zastrzeżone.`}
           </p>
         </div>
       </div>

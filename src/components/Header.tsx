@@ -56,7 +56,7 @@ const Menu = () => {
                 }}
                 scroll={false}
               >
-                DOTACJE
+                WSPARCIE
               </NextLink>
             </div>
           </nav>
